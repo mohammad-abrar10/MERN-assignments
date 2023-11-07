@@ -1,0 +1,22 @@
+TOPIC:Popular browsers and their JavaScript engines. 
+                                              
+
+Opera:
+      Uses the Blink JavaScript engine. Blink is an open-source, high-performance JavaScript engine  that  is used by Opera and other Chromium-based browsers. It is known for its speed and efficiency.
+
+
+Microsoft Edge:
+     Uses the Chakra JavaScript engine. Chakra is a proprietary, high-performance JavaScript engine that is used by Edge and other Chromium-based browsers. It is known for its speed and efficiency.
+
+
+
+Apple Safari:
+    Uses the JavaScriptCore JavaScript engine. JavaScriptCore is an open-source, high-performance JavaScript engine that is used by Safari and other WebKit-based browsers. It is known for its speed and efficiency.
+
+
+Mozilla Firefox:
+     Uses the SpiderMonkey JavaScript engine. SpiderMonkey is an open-source, high-performance JavaScript engine that is used by Firefox and other Gecko-based browsers. It is known for its speed and flexibility.
+
+
+Google Chrome:
+     Uses the V8 JavaScript engine. V8 is an open-source, high-performance JavaScript engine that is used by Chrome and other Chromium-based browsers. It is known for its speed and efficiency.
