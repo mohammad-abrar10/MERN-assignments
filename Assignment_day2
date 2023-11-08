@@ -5,6 +5,8 @@ WIREFRAME:
 MARKUP:
         A Markup or Markup language is a set of rules that defines how text and image should appear in a digital document.
 
+
+
 6 BEST DESIGNED WEBSITES OF 2023
 
 1. Girlboss:-
@@ -44,6 +46,44 @@ MARKUP:
        It’s not just tech that can benefit from well-thought-out photography, either. Egg Shop uses photographs of its recipes that can make anyone’s 
        mouth water – and is living proof that you don’t need to be a tech pro to build a beautiful site.
 
+
+
+
+
+
 DIFFERENCE BETWEEN SCRIPTING AND PROGRAMING LANGUAGE
- 
+
+    |    SCRIPTING LANGUAGE           |         PROGRAMING LANGUAGE
+___________________________________________________________________________
+1. |The scripting languages are      |The programming languages are compiler-based languages.
+   |interpreter-based languages.     |
+   |                                 |
+2. |The scripting languages help     |The programming languages help in developing anything from scratch.
+   |in combining the existing        |
+   |components of an application.    |
+   |                                 |
+3. |A user needs to run scripting    |Programming languages are program-independent.
+   |languages inside an existing     |
+   |program. Thus, it’s program-     |
+   |dependent.                       |
+   |                                 |
+4. |Scripting languages convert      |Programming languages help in converting the 
+   |high-level instructions into     |full program into the machine language (at once).
+   |machine language.                |
+   |                                 |
+5. |You don’t need to compile these  |These languages first need a compilation.
+   |languages.                       |
+   |                                 |
+6. |These make the coding process    |These provide full usage of the languages.
+   |simple and fast.                 |
+
+
+
+
+
+what is ECMA?
+
+ECMA stands for European Computer Manufacturer's Association. It's a non-profit organization that develops standards 
+for information technology and consumer electronics. ECMA's standards are based on several originating technologies,
+including JavaScript and JScript.
 
