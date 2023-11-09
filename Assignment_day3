@@ -1,0 +1,60 @@
+1:What is URL?
+
+    A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address. URLs consist
+    of multiple parts -- including a protocol and domain name -- that tell a web browser how and where to retrieve a resource.
+
+
+2:What are METAtags?
+
+    Meta tags are HTML tags that provide information about a webpage’s content to search engines and users.
+
+    They play a crucial role in influencing how a website appears in search results and can impact click-through rate (CTR).
+
+    Meta tags are usually added in the <head> section of our HTML. 
+
+3:What is W3C?
+
+    World Wide Web Consortium (W3C):- It is an international community where Members, full-time staff, and the public work together to develop web standards 
+    that creates standards for the World Wide Web. The WC3 is committed to improving the web by setting and promoting web-based standards. The W3C's goal is 
+    to create technical standards and guidelines for web technologies worldwide.
+
+4:Different Doctypes Of Different Versions Of HTML?
+
+   1:-  HTML5: The latest markup language version used for creating web pages and emails
+   2:-  HTML 4.01 Strict: Meant to return rules to HTML and make it more reliable
+   3:-  HTML 4.01 Transitional: The most common type of HTML
+   4:-  HTML 4.01 Frameset: Allows web developers to create a mosaic of HTML documents and a menu system
+   5:-  XML 1.0 strict and transitional doctypes
+   6:-  HTML 4.01 and XML 1.0 frameset doctypes
+
+5:Difference b/w HTTP and HTTPS?
+
+           http://                           |            https://
+---------------------------------------------------------------------------------------
+1.| Functions at the Application Layer       | This runs at the Transport layer
+  |                                          |
+2.|Lacks security and so is vulnerable       | Offer the SSL or TLS Digital Certificate to
+  |to hackers                                | protect the communication between the server and client
+  |                                          |
+3.|Operates by default on port 80.           |Operates by default on port 443.
+  |                                          |
+4.|Data exchanged is in plain text,          |Data exchange happens in cipher or encrypted text
+  |and it is not scrambled before sending    |and data is scrambled before sending
+
+
+6.what is DOM?
+
+    DOM stands for Document Object Model. It's a programming interface for web documents that allows programs 
+    to change the document structure, style, and content. The DOM represents the document as nodes and objects 
+    so that programming languages can interact with the page.
+
+
+
+
+
+
+
+
+
+
+
