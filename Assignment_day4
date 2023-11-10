@@ -1,0 +1,60 @@
+1: What is Search Engine Optimisation (SEO)?
+
+   SEO stands for “search engine optimization.”  SEO means the process of improving our website to increase its visibility in
+   Google, Microsoft Bing, and other search engines whenever people search for:
+
+   *   Products we sell.
+   *   Services we provide.
+   *   Information on topics in which we have deep expertise and/or experience.
+
+  The better visibility in our pages have in search results, the goal of search engine optimization is to help attract website
+  visitors who will become customers, clients or an audience that keeps coming back.
+
+
+2:Difference between Franework and API?
+
+                   Framework                                |              API
+-----------------------------------------------------------------------------------------------------------
+1.|A framework is a collection of patterns and              |An API is an interface for other programs to
+  |libraries to help with building an application.          | interact with your program without having 
+  |                                                         |direct access.
+  |                                                         |
+2.|A Framework is a collection of APIs designed to          |An API (Application Programming Interface) is 
+  |make building of applications simpler. Frameworks        |interface to some functionality which allows
+  |provide implementations for reusable components.         | an application to access the available 
+  |Good frameworks tend to be specialized in their          |functionality. An API may be referred to 
+  |application.                                             |as an Interface. API exist at many levels
+  |                                                         |including system, library, framework, program,
+  |                                                         | and application. APIs should be defined before
+  |                                                         |the code implementing them is implemented.
+
+
+3.ASCII Character Set vs UTF 8 Charter Set vs UTF 16 Character Set?
+
+  a. ASCII CharacterSet:-
+      *   ASCII stands for the "American Standard Code for Information Interchange".
+
+      *   It was designed in the early 60's, as a standard character set for computers and electronic devices.
+
+      *   ASCII is a 7-bit character set containing 128 characters.
+
+      *  It contains the numbers from 0-9, the upper and lower case English letters from A to Z, and some special characters.
+
+      *  The character sets used in modern computers, in HTML, and on the Internet, are all based on ASCII.
+
+  b. UTF 8 Charter Set:-
+        A variable-length character encoding (1 to 4 bytes long). UTF-8 is backwards compatible with ASCII and the preferred encoding
+        for e-mail and web pages.
+
+  c. UTF 16 Character Set:-
+        A variable-length character encoding. UTF-16 is used in all major operating systems like Windows, IOS, and Unix.
+
+
+
+
+
+
+
+
+
+
